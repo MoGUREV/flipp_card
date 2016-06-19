@@ -1,0 +1,29 @@
+<!-- <section class="flipper">
+			<div class="card" onclick="flip(this)">
+				<div class="front">1</div>
+				<div class="back">2</div>
+			</div>
+		</section>
+
+		<section class="flipper">
+			<div class="card" onclick="flip(this)">
+				<div class="front">1</div>
+				<div class="back">2</div>
+			</div>
+		</section>
+
+		<br>
+
+		<section class="flipper">
+			<div class="card" onclick="flip(this)">
+				<div class="front">1</div>
+				<div class="back">2</div>
+			</div>
+		</section>
+
+		<section class="flipper">
+			<div class="card" onclick="flip(this)">
+				<div class="front">1</div>
+				<div class="back">2</div>
+			</div>
+		</section> -->
